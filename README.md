@@ -59,7 +59,7 @@ To run the demo follow these steps:
 4. From the Quick Start copy the **APP_ID, APP_REGION and AUTH_KEY**. These will be used later.
 5. Also copy the **REST_API_KEY** from the API & Auth Key tab.
 6. Navigate to the Users tab, and delete all the default users and groups leaving it clean **(very important)**.
-7. Download the repository [here](https://github.com/codecourses6868/zoom-clone/archive/main.zip) or by running `git clone https://github.com/codecourses6868/zoom-clone.git` and open it in a code editor.
+7. Download the repository [here](https://github.com/codecourses-site/zoom-clone/archive/main.zip) or by running `git clone https://github.com/codecourses-site/zoom-clone.git` and open it in a code editor.
 8. [Head to Firebase and create a new project](https://console.firebase.google.com)
 9. Create a file called **.env** in the root folder of your project.
 10. Import and inject your secret keys in the **.env** file containing your CometChat and Firebase in this manner.
@@ -84,7 +84,7 @@ REACT_APP_COMETCHAT_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
     npm run start
 ```
 
-Questions about running the demo? [Open an issue](https://github.com/codecourses6868/zoom-clone/issues). We're here to help ✌️
+Questions about running the demo? [Open an issue](https://github.com/codecourses-site/zoom-clone/issues). We're here to help ✌️
 
 
 <a id="useful-links"></a>
