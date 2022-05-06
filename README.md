@@ -1,38 +1,34 @@
 # How to Build a Zoom Clone App with React
 
+![](./screenshots/screenshot.png)
+
 ## Table of Contents
 
-| No.   | Topics                                                                                                                                                             |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1     | [About Code Courses](#about-code-courses)                                                                                                                                       |
-| 2     | [Live Demo](#live-demo)                                                                                                                                       |
-| 3     | [Screenshot](#screenshot)                                                                                                                                       |
-| 4     | [Technologies](#technologies)                                                                                                                                       |
-| 5     | [Running the demo](#running-the-demo)                                                                                                                                       |
-| 6     | [Useful links](#useful-links)                                                                                                                                       |
+| No. | Topics                                    |
+| --- | ----------------------------------------- |
+| 1   | [About Code Courses](#about-code-courses) |
+| 2   | [Live Demo](#live-demo)                   |
+| 3   | [Technologies](#technologies)             |
+| 4   | [Running the demo](#running-the-demo)     |
+| 5   | [Useful links](#useful-links)             |
 
 <a id="about-code-courses"></a>
+
 ## 1. About Code Courses
 
-[Code Courses](https://codecourses.site) is a website where people learn about coding and different technologies/frameworks/libraries. For the purpose of helping people learn, all of the courses are **FREE** and **DETAIL**. Following that, they will be written in detail. For this reason,  Code Courses believe that you do not need to buy any courses out there. Hopefully, after following the content on Code Courses, you will find your dream jobs, and build any applications that you want.
-
+[Code Courses](https://codecourses.site) is a website where people learn about coding and different technologies/frameworks/libraries. For the purpose of helping people learn, all of the courses are **FREE** and **DETAIL**. Following that, they will be written in detail. For this reason, Code Courses believe that you do not need to buy any courses out there. Hopefully, after following the content on Code Courses, you will find your dream jobs, and build any applications that you want.
 
 <a id="live-demo"></a>
+
 ## 2. Live Demo
 
 - For the full course, You can refer to this [link](https://codecourses.site/react/how-to-build-zoom-clone-app-with-react-ep-1/).
 
 - You can refer to this [Youtube video](https://www.youtube.com/watch?v=84F6e71Rtc8) for the live demo.
 
-
-<a id="screenshot"></a>
-## 3. Screenshot
-
-![](./screenshots/screenshot.png)
-
-
 <a id="technologies"></a>
-## 4. Technologies
+
+## 3. Technologies
 
 This demo uses:
 
@@ -49,7 +45,8 @@ This demo uses:
 - twemoji
 
 <a id="running-the-demo"></a>
-## Running the demo
+
+## 4. Running the demo
 
 To run the demo follow these steps:
 
@@ -68,7 +65,8 @@ To run the demo follow these steps:
 REACT_APP_FIREBASE_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 REACT_APP_FIREBASE_AUTH_DOMAIN=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 REACT_APP_FIREBASE_DATABASE_URL=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_FIREBASE_STORAGE_BUCKET=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_STORAGE_BUCKET =
+  xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 
 REACT_APP_COMETCHAT_APP_ID=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 REACT_APP_COMETCHAT_REGION=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
@@ -86,9 +84,9 @@ REACT_APP_COMETCHAT_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 
 Questions about running the demo? [Open an issue](https://github.com/codecourses-site/zoom-clone/issues). We're here to help ✌️
 
-
 <a id="useful-links"></a>
-## Useful links
+
+## 5. Useful links
 
 - 🔥 [Firebase](https://console.firebase.google.com)
 - 🔷 [React.js](https://reactjs.org/)
