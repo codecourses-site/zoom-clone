@@ -16,7 +16,7 @@
 
 ## 1. About Code Courses
 
-[Code Courses](https://codecourses.site) is a website where people learn about coding and different technologies/frameworks/libraries. For the purpose of helping people learn, all of the courses are **FREE** and **DETAIL**. Following that, they will be written in detail. For this reason, Code Courses believe that you do not need to buy any courses out there. Hopefully, after following the content on Code Courses, you will find your dream jobs, and build any applications that you want.
+<a href="https://codecourses.site">Code Courses</a> is a website where people learn about coding and different technologies/frameworks/libraries. To help people learn, all of the courses are **FREE** and **DETAIL**. Hopefully, after following the content on Code Courses, you will find your dream jobs, and build any applications that you want.
 
 <a id="live-demo"></a>
 
@@ -62,16 +62,16 @@ To run the demo follow these steps:
 10. Import and inject your secret keys in the **.env** file containing your CometChat and Firebase in this manner.
 
 ```js
-REACT_APP_FIREBASE_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_FIREBASE_AUTH_DOMAIN=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_FIREBASE_DATABASE_URL=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_API_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_FIREBASE_AUTH_DOMAIN = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_FIREBASE_DATABASE_URL = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
 REACT_APP_FIREBASE_STORAGE_BUCKET =
-  xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+  xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
 
-REACT_APP_COMETCHAT_APP_ID=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_COMETCHAT_REGION=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_COMETCHAT_AUTH_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_COMETCHAT_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_COMETCHAT_APP_ID = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_COMETCHAT_REGION = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_COMETCHAT_AUTH_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_COMETCHAT_API_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
 ```
 
 11. Make sure to exclude **.env** in your gitIgnore file from being exposed online.
